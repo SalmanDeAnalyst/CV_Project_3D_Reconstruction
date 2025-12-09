@@ -1,0 +1,14 @@
+{
+  "total_walls": 7,
+  "successful": 7,
+  "failed": 0,
+  "results": {
+    "wall_A": "success",
+    "wall_B": "success",
+    "wall_C": "success",
+    "wall_D": "success",
+    "wall_E": "success",
+    "wall_F": "success",
+    "wall_G": "success"
+  }
+}

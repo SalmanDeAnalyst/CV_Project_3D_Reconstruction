@@ -1,0 +1,8 @@
+{
+  "num_cameras": 2,
+  "num_points": 13,
+  "reprojection_errors": [],
+  "ba_improvements": [
+    -14.697304159402847
+  ]
+}

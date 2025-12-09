@@ -1,0 +1,11 @@
+{
+  "num_cameras": 4,
+  "num_points": 775,
+  "reprojection_errors": [
+    4.3972392082214355,
+    4.616994380950928
+  ],
+  "ba_improvements": [
+    -7.074164271354675
+  ]
+}

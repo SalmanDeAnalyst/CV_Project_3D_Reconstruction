@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>3D Virtual Tour - Phase 3</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+    <!-- Loading Screen -->
+    <div id="loading-screen">
+        <div class="loading-content">
+            <h1>Loading Virtual Tour...</h1>
+            <div class="progress-bar">
+                <div id="progress-fill" class="progress-fill"></div>
+            </div>
+            <p id="loading-status">Initializing...</p>
+        </div>
+    </div>
+
+    <!-- Main Container -->
+    <div id="container">
+        <!-- Background Images (for cross-fade) -->
+        <div id="image-container">
+            <img id="current-image" class="background-image" src="" alt="Current View">
+            <img id="next-image" class="background-image" src="" alt="Next View">
+        </div>
+
+        <!-- Three.js Canvas -->
+        <canvas id="canvas"></canvas>
+
+        <!-- UI Overlay -->
+        <div id="ui-overlay">
+            <!-- Top Bar -->
+            <div id="top-bar">
+                <div class="info-panel">
+                    <h2 id="camera-label">Camera 1</h2>
+                    <p id="camera-info">Wall A • Position: (0, 0, 0)</p>
+                </div>
+                <div class="controls">
+                    <button id="toggle-points" class="btn">Hide Points</button>
+                    <button id="toggle-nodes" class="btn">Hide Navigation</button>
+                    <button id="help-btn" class="btn">Help</button>
+                </div>
+            </div>
+
+            <!-- Navigation Hint -->
+            <div id="nav-hint" class="fade-in">
+                <p>💡 Click on orange spheres to navigate between viewpoints</p>
+            </div>
+
+            <!-- Camera List (Optional) -->
+            <div id="camera-list" class="side-panel">
+                <h3>Available Views</h3>
+                <div id="camera-thumbnails"></div>
+            </div>
+        </div>
+
+        <!-- Help Modal -->
+        <div id="help-modal" class="modal">
+            <div class="modal-content">
+                <span class="close">&times;</span>
+                <h2>Navigation Controls</h2>
+                <ul>
+                    <li><strong>Click orange spheres</strong> - Navigate to another viewpoint</li>
+                    <li><strong>Left mouse drag</strong> - Rotate view (when not animating)</li>
+                    <li><strong>Right mouse drag</strong> - Pan view</li>
+                    <li><strong>Scroll wheel</strong> - Zoom in/out</li>
+                    <li><strong>Toggle Points</strong> - Show/hide 3D point cloud</li>
+                    <li><strong>Toggle Navigation</strong> - Show/hide navigation nodes</li>
+                </ul>
+                <p><em>Point cloud is automatically shown during transitions</em></p>
+            </div>
+        </div>
+    </div>
+
+    <!-- Three.js and Dependencies -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/three@0.128.0/examples/js/controls/OrbitControls.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/three@0.128.0/examples/js/loaders/PLYLoader.js"></script>
+
+    <!-- Our Modules -->
+    <script src="js/utils.js"></script>
+    <script src="js/view_graph.js"></script>
+    <script src="js/camera_controller.js"></script>
+    <script src="js/ui.js"></script>
+    <script src="js/viewer.js"></script>
+
+    <!-- Initialize -->
+    <script>
+        // Configuration
+        const CONFIG = {
+            data: {
+                pointCloud: 'data/merged_scene.ply',
+                cameras: 'data/all_cameras.json',
+                viewGraph: 'data/view_graph.json',
+                imagesPath: 'data/images/'  // Base path for images
+            },
+            camera: {
+                fov: 60,
+                near: 0.1,
+                far: 1000
+            },
+            navigation: {
+                transitionDuration: 2000,  // ms
+                showPointsDuringTransition: true,
+                nodeSize: 0.3,
+                nodeColor: 0xff6600  // Orange
+            },
+            controls: {
+                enableOrbit: true,
+                enablePan: true,
+                enableZoom: true,
+                autoRotate: false
+            }
+        };
+
+        // Start the viewer when page loads
+        window.addEventListener('DOMContentLoaded', () => {
+            const viewer = new VirtualTourViewer(CONFIG);
+            viewer.init();
+        });
+    </script>
+</body>
+</html>

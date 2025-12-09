@@ -1,0 +1,21 @@
+{
+  "wall_id": "wall_C",
+  "folder": "wall_c",
+  "image_range": [
+    26,
+    31
+  ],
+  "adjacent_to": [
+    "wall_B",
+    "wall_D"
+  ],
+  "corner_images": [
+    26,
+    31
+  ],
+  "reconstruction_stats": {
+    "num_cameras": 4,
+    "num_points": 1726,
+    "mean_reprojection_error": 7.0392022132873535
+  }
+}
