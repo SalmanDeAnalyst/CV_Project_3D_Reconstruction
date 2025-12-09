@@ -19,7 +19,7 @@ from typing import Dict, List, Tuple
 class ViewGraphBuilder:
     """Builds navigation graph from camera observations."""
     
-    def __init__(self, cameras: List[Dict], min_shared_points: int = 20, max_spatial_distance: float = 10.0):
+    def __init__(self, cameras: List[Dict], min_shared_points: int = 10, max_spatial_distance: float = 50.0):
         """
         Initialize view graph builder.
         

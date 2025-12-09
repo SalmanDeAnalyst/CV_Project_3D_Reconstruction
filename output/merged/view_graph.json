@@ -3,671 +3,435 @@
     "0": [
       {
         "target_camera": 1,
-        "shared_points": 1963,
-        "distance": 6.689611210019943
+        "shared_points": 0,
+        "distance": 6.689611210019943,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 2,
+        "shared_points": 0,
+        "distance": 18.843304400692567,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 44,
+        "shared_points": 0,
+        "distance": 21.054361917084393,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 45,
+        "shared_points": 0,
+        "distance": 23.317217716184427,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 5,
+        "shared_points": 0,
+        "distance": 34.11702220208102,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 46,
+        "shared_points": 0,
+        "distance": 34.45052907874301,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 47,
+        "shared_points": 0,
+        "distance": 34.48891264658168,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 48,
+        "shared_points": 0,
+        "distance": 35.96121374108814,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 4,
+        "shared_points": 0,
+        "distance": 36.360256532290514,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 3,
+        "shared_points": 0,
+        "distance": 39.02012623785324,
+        "type": "spatial_forced"
       }
     ],
     "1": [
       {
         "target_camera": 0,
-        "shared_points": 1963,
-        "distance": 6.689611210019943
+        "shared_points": 0,
+        "distance": 6.689611210019943,
+        "type": "spatial_forced"
       },
       {
         "target_camera": 2,
-        "shared_points": 640,
-        "distance": 14.344086207764832
+        "shared_points": 0,
+        "distance": 14.344086207764832,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 44,
+        "shared_points": 0,
+        "distance": 16.83770367741579,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 45,
+        "shared_points": 0,
+        "distance": 20.826354009154112,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 47,
+        "shared_points": 0,
+        "distance": 30.48377922573514,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 46,
+        "shared_points": 0,
+        "distance": 30.589138746615465,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 5,
+        "shared_points": 0,
+        "distance": 31.27688409548513,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 43,
+        "shared_points": 0,
+        "distance": 33.54683610781643,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 42,
+        "shared_points": 0,
+        "distance": 33.69501757485143,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 48,
+        "shared_points": 0,
+        "distance": 34.09435941307237,
+        "type": "spatial_forced"
       }
     ],
     "2": [
       {
         "target_camera": 1,
-        "shared_points": 640,
-        "distance": 14.344086207764832
+        "shared_points": 0,
+        "distance": 14.344086207764832,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 5,
+        "shared_points": 0,
+        "distance": 17.676246521837857,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 0,
+        "shared_points": 0,
+        "distance": 18.843304400692567,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 3,
+        "shared_points": 0,
+        "distance": 21.366147022954777,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 4,
+        "shared_points": 0,
+        "distance": 21.453271594475606,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 44,
+        "shared_points": 0,
+        "distance": 23.591355146537435,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 45,
+        "shared_points": 0,
+        "distance": 29.958079778765807,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 42,
+        "shared_points": 0,
+        "distance": 35.58455526277639,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 43,
+        "shared_points": 0,
+        "distance": 35.588154102901576,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 47,
+        "shared_points": 0,
+        "distance": 36.176823027136365,
+        "type": "spatial_forced"
       }
     ],
     "3": [
       {
         "target_camera": 5,
-        "shared_points": 87,
-        "distance": 8.200958051882774
+        "shared_points": 0,
+        "distance": 8.200958051882774,
+        "type": "spatial_forced"
       },
       {
         "target_camera": 4,
-        "shared_points": 437,
-        "distance": 9.607955346362687
-      }
-    ],
-    "5": [
-      {
-        "target_camera": 3,
-        "shared_points": 87,
-        "distance": 8.200958051882774
+        "shared_points": 0,
+        "distance": 9.607955346362687,
+        "type": "spatial_forced"
       },
       {
-        "target_camera": 4,
-        "shared_points": 2102,
-        "distance": 5.630152065248309
+        "target_camera": 2,
+        "shared_points": 0,
+        "distance": 21.366147022954777,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 1,
+        "shared_points": 0,
+        "distance": 35.48504009092812,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 0,
+        "shared_points": 0,
+        "distance": 39.02012623785324,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 44,
+        "shared_points": 0,
+        "distance": 41.275937307506815,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 45,
+        "shared_points": 0,
+        "distance": 47.95722607778793,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 42,
+        "shared_points": 0,
+        "distance": 49.227234966597585,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 43,
+        "shared_points": 0,
+        "distance": 49.35296157141543,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 47,
+        "shared_points": 0,
+        "distance": 51.34929939386999,
+        "type": "spatial_forced"
       }
     ],
     "4": [
       {
         "target_camera": 5,
-        "shared_points": 2102,
-        "distance": 5.630152065248309
+        "shared_points": 0,
+        "distance": 5.630152065248309,
+        "type": "spatial_forced"
       },
       {
         "target_camera": 3,
-        "shared_points": 437,
-        "distance": 9.607955346362687
-      }
-    ],
-    "8": [
-      {
-        "target_camera": 10,
-        "shared_points": 632,
-        "distance": 11.972672658545301
-      },
-      {
-        "target_camera": 9,
-        "shared_points": 1253,
-        "distance": 10.398817735157364
-      },
-      {
-        "target_camera": 7,
         "shared_points": 0,
-        "distance": 20.9410359955037,
-        "type": "spatial_fallback"
-      }
-    ],
-    "10": [
-      {
-        "target_camera": 8,
-        "shared_points": 632,
-        "distance": 11.972672658545301
+        "distance": 9.607955346362687,
+        "type": "spatial_forced"
       },
       {
-        "target_camera": 9,
-        "shared_points": 2258,
-        "distance": 10.27562143634844
-      }
-    ],
-    "9": [
-      {
-        "target_camera": 8,
-        "shared_points": 1253,
-        "distance": 10.398817735157364
-      },
-      {
-        "target_camera": 10,
-        "shared_points": 2258,
-        "distance": 10.27562143634844
-      },
-      {
-        "target_camera": 7,
+        "target_camera": 2,
         "shared_points": 0,
-        "distance": 23.418463998519254,
-        "type": "spatial_fallback"
-      }
-    ],
-    "11": [
-      {
-        "target_camera": 12,
-        "shared_points": 1953,
-        "distance": 14.612429495916109
-      }
-    ],
-    "12": [
-      {
-        "target_camera": 11,
-        "shared_points": 1953,
-        "distance": 14.612429495916109
-      }
-    ],
-    "13": [
-      {
-        "target_camera": 14,
-        "shared_points": 208,
-        "distance": 5.548362700903838
-      }
-    ],
-    "14": [
-      {
-        "target_camera": 13,
-        "shared_points": 208,
-        "distance": 5.548362700903838
-      }
-    ],
-    "15": [
-      {
-        "target_camera": 16,
-        "shared_points": 1487,
-        "distance": 8.81873740335575
-      }
-    ],
-    "16": [
-      {
-        "target_camera": 15,
-        "shared_points": 1487,
-        "distance": 8.81873740335575
+        "distance": 21.453271594475606,
+        "type": "spatial_forced"
       },
       {
-        "target_camera": 17,
-        "shared_points": 64,
-        "distance": 12.461228049630249
+        "target_camera": 1,
+        "shared_points": 0,
+        "distance": 34.30703747414375,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 0,
+        "shared_points": 0,
+        "distance": 36.360256532290514,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 44,
+        "shared_points": 0,
+        "distance": 43.386848918218064,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 45,
+        "shared_points": 0,
+        "distance": 49.54470528206216,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 42,
+        "shared_points": 0,
+        "distance": 54.2647293644266,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 43,
+        "shared_points": 0,
+        "distance": 54.35162576535711,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 47,
+        "shared_points": 0,
+        "distance": 55.06537674361056,
+        "type": "spatial_forced"
       }
     ],
-    "17": [
+    "5": [
       {
-        "target_camera": 16,
-        "shared_points": 64,
-        "distance": 12.461228049630249
+        "target_camera": 4,
+        "shared_points": 0,
+        "distance": 5.630152065248309,
+        "type": "spatial_forced"
       },
       {
-        "target_camera": 18,
-        "shared_points": 191,
-        "distance": 5.72747353434497
+        "target_camera": 3,
+        "shared_points": 0,
+        "distance": 8.200958051882774,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 2,
+        "shared_points": 0,
+        "distance": 17.676246521837857,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 1,
+        "shared_points": 0,
+        "distance": 31.27688409548513,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 0,
+        "shared_points": 0,
+        "distance": 34.11702220208102,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 44,
+        "shared_points": 0,
+        "distance": 40.242185376142125,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 45,
+        "shared_points": 0,
+        "distance": 46.725577646038566,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 42,
+        "shared_points": 0,
+        "distance": 49.43194794699085,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 43,
+        "shared_points": 0,
+        "distance": 49.53997194257956,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 47,
+        "shared_points": 0,
+        "distance": 51.78297157862091,
+        "type": "spatial_forced"
       }
     ],
-    "18": [
+    "6": [
       {
-        "target_camera": 17,
-        "shared_points": 191,
-        "distance": 5.72747353434497
-      }
-    ],
-    "21": [
-      {
-        "target_camera": 22,
-        "shared_points": 3423,
-        "distance": 2.040041895190822
+        "target_camera": 27,
+        "shared_points": 0,
+        "distance": 48.386702409592814,
+        "type": "spatial_forced"
       },
-      {
-        "target_camera": 23,
-        "shared_points": 129,
-        "distance": 10.265253737998862
-      }
-    ],
-    "22": [
-      {
-        "target_camera": 21,
-        "shared_points": 3423,
-        "distance": 2.040041895190822
-      },
-      {
-        "target_camera": 23,
-        "shared_points": 504,
-        "distance": 8.295661522970631
-      },
-      {
-        "target_camera": 24,
-        "shared_points": 182,
-        "distance": 13.469184122325238
-      }
-    ],
-    "23": [
-      {
-        "target_camera": 21,
-        "shared_points": 129,
-        "distance": 10.265253737998862
-      },
-      {
-        "target_camera": 22,
-        "shared_points": 504,
-        "distance": 8.295661522970631
-      },
-      {
-        "target_camera": 24,
-        "shared_points": 2284,
-        "distance": 5.316079751566761
-      },
-      {
-        "target_camera": 25,
-        "shared_points": 466,
-        "distance": 9.697788867287
-      }
-    ],
-    "24": [
-      {
-        "target_camera": 22,
-        "shared_points": 182,
-        "distance": 13.469184122325238
-      },
-      {
-        "target_camera": 23,
-        "shared_points": 2284,
-        "distance": 5.316079751566761
-      },
-      {
-        "target_camera": 25,
-        "shared_points": 1387,
-        "distance": 4.418947373857914
-      }
-    ],
-    "25": [
-      {
-        "target_camera": 23,
-        "shared_points": 466,
-        "distance": 9.697788867287
-      },
-      {
-        "target_camera": 24,
-        "shared_points": 1387,
-        "distance": 4.418947373857914
-      }
-    ],
-    "27": [
       {
         "target_camera": 29,
-        "shared_points": 23,
-        "distance": 9.514720783977697
-      },
-      {
-        "target_camera": 31,
-        "shared_points": 21,
-        "distance": 9.744438732125046
+        "shared_points": 0,
+        "distance": 52.779545326021406,
+        "type": "spatial_forced"
       },
       {
         "target_camera": 28,
-        "shared_points": 55,
-        "distance": 12.867530361099504
-      },
-      {
-        "target_camera": 26,
-        "shared_points": 40,
-        "distance": 10.733600926337257
-      }
-    ],
-    "29": [
-      {
-        "target_camera": 27,
-        "shared_points": 23,
-        "distance": 9.514720783977697
-      },
-      {
-        "target_camera": 31,
-        "shared_points": 24,
-        "distance": 8.51728190609102
-      },
-      {
-        "target_camera": 28,
-        "shared_points": 56,
-        "distance": 3.448950956413246
-      }
-    ],
-    "31": [
-      {
-        "target_camera": 27,
-        "shared_points": 21,
-        "distance": 9.744438732125046
-      },
-      {
-        "target_camera": 29,
-        "shared_points": 24,
-        "distance": 8.51728190609102
-      },
-      {
-        "target_camera": 30,
         "shared_points": 0,
-        "distance": 15.721789940269439,
-        "type": "spatial_fallback"
-      },
-      {
-        "target_camera": 34,
-        "shared_points": 0,
-        "distance": 18.521143594916623,
-        "type": "spatial_fallback"
-      }
-    ],
-    "28": [
-      {
-        "target_camera": 29,
-        "shared_points": 56,
-        "distance": 3.448950956413246
-      },
-      {
-        "target_camera": 27,
-        "shared_points": 55,
-        "distance": 12.867530361099504
+        "distance": 54.004221994015516,
+        "type": "spatial_forced"
       },
       {
         "target_camera": 32,
-        "shared_points": 16,
-        "distance": 3.8459658639438663
-      }
-    ],
-    "26": [
-      {
-        "target_camera": 27,
-        "shared_points": 40,
-        "distance": 10.733600926337257
-      },
-      {
-        "target_camera": 30,
         "shared_points": 0,
-        "distance": 14.179059913379389,
-        "type": "spatial_fallback"
-      },
-      {
-        "target_camera": 34,
-        "shared_points": 0,
-        "distance": 17.87015326181688,
-        "type": "spatial_fallback"
-      }
-    ],
-    "32": [
-      {
-        "target_camera": 28,
-        "shared_points": 16,
-        "distance": 3.8459658639438663
+        "distance": 54.79573806186492,
+        "type": "spatial_forced"
       },
       {
         "target_camera": 33,
-        "shared_points": 15,
-        "distance": 2.484591337886877
-      }
-    ],
-    "33": [
-      {
-        "target_camera": 32,
-        "shared_points": 15,
-        "distance": 2.484591337886877
-      }
-    ],
-    "36": [
-      {
-        "target_camera": 37,
-        "shared_points": 1025,
-        "distance": 3.547297098304045
-      }
-    ],
-    "37": [
-      {
-        "target_camera": 36,
-        "shared_points": 1025,
-        "distance": 3.547297098304045
-      }
-    ],
-    "39": [
-      {
-        "target_camera": 40,
-        "shared_points": 1848,
-        "distance": 7.577933394366763
-      },
-      {
-        "target_camera": 41,
-        "shared_points": 730,
-        "distance": 7.9083781786342575
-      },
-      {
-        "target_camera": 38,
-        "shared_points": 1716,
-        "distance": 7.375627162096328
-      }
-    ],
-    "40": [
-      {
-        "target_camera": 39,
-        "shared_points": 1848,
-        "distance": 7.577933394366763
-      },
-      {
-        "target_camera": 38,
-        "shared_points": 653,
-        "distance": 9.482207277840605
-      },
-      {
-        "target_camera": 41,
-        "shared_points": 3479,
-        "distance": 4.95745046288772
-      }
-    ],
-    "38": [
-      {
-        "target_camera": 40,
-        "shared_points": 653,
-        "distance": 9.482207277840605
-      },
-      {
-        "target_camera": 39,
-        "shared_points": 1716,
-        "distance": 7.375627162096328
-      },
-      {
-        "target_camera": 41,
-        "shared_points": 330,
-        "distance": 12.94969240636705
-      }
-    ],
-    "41": [
-      {
-        "target_camera": 40,
-        "shared_points": 3479,
-        "distance": 4.95745046288772
-      },
-      {
-        "target_camera": 39,
-        "shared_points": 730,
-        "distance": 7.9083781786342575
-      },
-      {
-        "target_camera": 38,
-        "shared_points": 330,
-        "distance": 12.94969240636705
-      }
-    ],
-    "42": [
-      {
-        "target_camera": 43,
-        "shared_points": 2379,
-        "distance": 0.45716369771299376
-      }
-    ],
-    "43": [
-      {
-        "target_camera": 42,
-        "shared_points": 2379,
-        "distance": 0.45716369771299376
-      }
-    ],
-    "46": [
-      {
-        "target_camera": 47,
-        "shared_points": 198,
-        "distance": 2.066059059896047
-      },
-      {
-        "target_camera": 44,
-        "shared_points": 145,
-        "distance": 14.33152910411718
-      },
-      {
-        "target_camera": 45,
-        "shared_points": 643,
-        "distance": 12.323424014922013
-      },
-      {
-        "target_camera": 48,
-        "shared_points": 50,
-        "distance": 12.994824485596654
-      }
-    ],
-    "47": [
-      {
-        "target_camera": 46,
-        "shared_points": 198,
-        "distance": 2.066059059896047
-      },
-      {
-        "target_camera": 44,
-        "shared_points": 90,
-        "distance": 13.900780314489769
-      },
-      {
-        "target_camera": 45,
-        "shared_points": 224,
-        "distance": 12.56569026988178
-      },
-      {
-        "target_camera": 48,
-        "shared_points": 564,
-        "distance": 14.784623298309821
-      }
-    ],
-    "44": [
-      {
-        "target_camera": 45,
-        "shared_points": 1351,
-        "distance": 7.264968673586118
-      },
-      {
-        "target_camera": 46,
-        "shared_points": 145,
-        "distance": 14.33152910411718
-      },
-      {
-        "target_camera": 47,
-        "shared_points": 90,
-        "distance": 13.900780314489769
-      }
-    ],
-    "45": [
-      {
-        "target_camera": 44,
-        "shared_points": 1351,
-        "distance": 7.264968673586118
-      },
-      {
-        "target_camera": 46,
-        "shared_points": 643,
-        "distance": 12.323424014922013
-      },
-      {
-        "target_camera": 47,
-        "shared_points": 224,
-        "distance": 12.56569026988178
-      }
-    ],
-    "52": [
-      {
-        "target_camera": 53,
-        "shared_points": 104,
-        "distance": 4.014099307582721
-      },
-      {
-        "target_camera": 20,
         "shared_points": 0,
-        "distance": 18.921327392510225,
-        "type": "spatial_fallback"
+        "distance": 56.441007796075034,
+        "type": "spatial_forced"
       },
-      {
-        "target_camera": 50,
-        "shared_points": 0,
-        "distance": 7.000440446066389,
-        "type": "spatial_fallback"
-      },
-      {
-        "target_camera": 51,
-        "shared_points": 0,
-        "distance": 2.900240792542051,
-        "type": "spatial_fallback"
-      }
-    ],
-    "53": [
-      {
-        "target_camera": 52,
-        "shared_points": 104,
-        "distance": 4.014099307582721
-      },
-      {
-        "target_camera": 19,
-        "shared_points": 0,
-        "distance": 24.845558391455768,
-        "type": "spatial_fallback"
-      },
-      {
-        "target_camera": 50,
-        "shared_points": 0,
-        "distance": 9.494645376360834,
-        "type": "spatial_fallback"
-      },
-      {
-        "target_camera": 51,
-        "shared_points": 0,
-        "distance": 1.4546619240546257,
-        "type": "spatial_fallback"
-      }
-    ],
-    "48": [
-      {
-        "target_camera": 46,
-        "shared_points": 50,
-        "distance": 12.994824485596654
-      },
-      {
-        "target_camera": 47,
-        "shared_points": 564,
-        "distance": 14.784623298309821
-      },
-      {
-        "target_camera": 49,
-        "shared_points": 594,
-        "distance": 11.662536992586451
-      }
-    ],
-    "49": [
-      {
-        "target_camera": 48,
-        "shared_points": 594,
-        "distance": 11.662536992586451
-      }
-    ],
-    "54": [
-      {
-        "target_camera": 55,
-        "shared_points": 463,
-        "distance": 5.317714413472856
-      }
-    ],
-    "55": [
       {
         "target_camera": 54,
-        "shared_points": 463,
-        "distance": 5.317714413472856
+        "shared_points": 0,
+        "distance": 56.67689260237832,
+        "type": "spatial_forced"
       },
       {
-        "target_camera": 56,
-        "shared_points": 331,
-        "distance": 11.478599105519104
+        "target_camera": 31,
+        "shared_points": 0,
+        "distance": 57.59933003637113,
+        "type": "spatial_forced"
       },
       {
-        "target_camera": 57,
-        "shared_points": 21,
-        "distance": 9.751399023794152
-      }
-    ],
-    "56": [
+        "target_camera": 26,
+        "shared_points": 0,
+        "distance": 58.92301326169156,
+        "type": "spatial_forced"
+      },
       {
         "target_camera": 55,
-        "shared_points": 331,
-        "distance": 11.478599105519104
+        "shared_points": 0,
+        "distance": 59.98738884697595,
+        "type": "spatial_forced"
       },
       {
-        "target_camera": 57,
-        "shared_points": 27,
-        "distance": 7.9966874548092415
-      }
-    ],
-    "57": [
-      {
-        "target_camera": 55,
-        "shared_points": 21,
-        "distance": 9.751399023794152
-      },
-      {
-        "target_camera": 56,
-        "shared_points": 27,
-        "distance": 7.9966874548092415
+        "target_camera": 13,
+        "shared_points": 0,
+        "distance": 62.76870230334622,
+        "type": "spatial_forced"
       }
     ],
     "7": [
@@ -675,13 +439,743 @@
         "target_camera": 8,
         "shared_points": 0,
         "distance": 20.9410359955037,
-        "type": "spatial_fallback"
+        "type": "spatial_forced"
       },
       {
         "target_camera": 9,
         "shared_points": 0,
         "distance": 23.418463998519254,
-        "type": "spatial_fallback"
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 10,
+        "shared_points": 0,
+        "distance": 30.771121674374484,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 11,
+        "shared_points": 0,
+        "distance": 37.17672248683927,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 12,
+        "shared_points": 0,
+        "distance": 45.155310323233934,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 3,
+        "shared_points": 0,
+        "distance": 93.25210570362192,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 4,
+        "shared_points": 0,
+        "distance": 99.18871359316378,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 5,
+        "shared_points": 0,
+        "distance": 100.73317887845859,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 47,
+        "shared_points": 0,
+        "distance": 101.11505515842342,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 46,
+        "shared_points": 0,
+        "distance": 103.09135512911385,
+        "type": "spatial_forced"
+      }
+    ],
+    "8": [
+      {
+        "target_camera": 9,
+        "shared_points": 0,
+        "distance": 10.398817735157364,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 10,
+        "shared_points": 0,
+        "distance": 11.972672658545301,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 7,
+        "shared_points": 0,
+        "distance": 20.9410359955037,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 11,
+        "shared_points": 0,
+        "distance": 27.186864811657177,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 12,
+        "shared_points": 0,
+        "distance": 29.47314234871087,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 3,
+        "shared_points": 0,
+        "distance": 106.22193587380747,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 4,
+        "shared_points": 0,
+        "distance": 112.02264749931264,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 5,
+        "shared_points": 0,
+        "distance": 113.90248817176341,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 47,
+        "shared_points": 0,
+        "distance": 119.95512617232802,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 2,
+        "shared_points": 0,
+        "distance": 119.97312257538496,
+        "type": "spatial_forced"
+      }
+    ],
+    "9": [
+      {
+        "target_camera": 10,
+        "shared_points": 0,
+        "distance": 10.27562143634844,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 8,
+        "shared_points": 0,
+        "distance": 10.398817735157364,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 11,
+        "shared_points": 0,
+        "distance": 17.275997417457763,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 12,
+        "shared_points": 0,
+        "distance": 22.98406231547334,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 7,
+        "shared_points": 0,
+        "distance": 23.418463998519254,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 3,
+        "shared_points": 0,
+        "distance": 113.89725152244554,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 4,
+        "shared_points": 0,
+        "distance": 119.57552157161436,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 5,
+        "shared_points": 0,
+        "distance": 121.46333271596254,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 47,
+        "shared_points": 0,
+        "distance": 124.51404503415525,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 46,
+        "shared_points": 0,
+        "distance": 126.49278422241812,
+        "type": "spatial_forced"
+      }
+    ],
+    "10": [
+      {
+        "target_camera": 9,
+        "shared_points": 0,
+        "distance": 10.27562143634844,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 8,
+        "shared_points": 0,
+        "distance": 11.972672658545301,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 12,
+        "shared_points": 0,
+        "distance": 17.89964696375807,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 11,
+        "shared_points": 0,
+        "distance": 19.764326529981723,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 7,
+        "shared_points": 0,
+        "distance": 30.771121674374484,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 3,
+        "shared_points": 0,
+        "distance": 117.89508033076444,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 4,
+        "shared_points": 0,
+        "distance": 123.82102958945403,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 5,
+        "shared_points": 0,
+        "distance": 125.63560022294932,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 47,
+        "shared_points": 0,
+        "distance": 130.73504450577715,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 2,
+        "shared_points": 0,
+        "distance": 131.66052942184837,
+        "type": "spatial_forced"
+      }
+    ],
+    "11": [
+      {
+        "target_camera": 12,
+        "shared_points": 0,
+        "distance": 14.612429495916109,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 9,
+        "shared_points": 0,
+        "distance": 17.275997417457763,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 10,
+        "shared_points": 0,
+        "distance": 19.764326529981723,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 8,
+        "shared_points": 0,
+        "distance": 27.186864811657177,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 7,
+        "shared_points": 0,
+        "distance": 37.17672248683927,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 3,
+        "shared_points": 0,
+        "distance": 129.9376752495326,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 4,
+        "shared_points": 0,
+        "distance": 135.67297319085452,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 47,
+        "shared_points": 0,
+        "distance": 136.7591437513029,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 5,
+        "shared_points": 0,
+        "distance": 137.45287898910803,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 46,
+        "shared_points": 0,
+        "distance": 138.67441195770004,
+        "type": "spatial_forced"
+      }
+    ],
+    "12": [
+      {
+        "target_camera": 11,
+        "shared_points": 0,
+        "distance": 14.612429495916109,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 10,
+        "shared_points": 0,
+        "distance": 17.89964696375807,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 9,
+        "shared_points": 0,
+        "distance": 22.98406231547334,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 8,
+        "shared_points": 0,
+        "distance": 29.47314234871087,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 7,
+        "shared_points": 0,
+        "distance": 45.155310323233934,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 3,
+        "shared_points": 0,
+        "distance": 135.26539687664823,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 4,
+        "shared_points": 0,
+        "distance": 141.29250844335903,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 5,
+        "shared_points": 0,
+        "distance": 143.01380883768368,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 47,
+        "shared_points": 0,
+        "distance": 145.25779626968625,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 25,
+        "shared_points": 0,
+        "distance": 146.595530754639,
+        "type": "spatial_forced"
+      }
+    ],
+    "13": [
+      {
+        "target_camera": 14,
+        "shared_points": 0,
+        "distance": 5.548362700903838,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 20,
+        "shared_points": 0,
+        "distance": 53.937953900275566,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 19,
+        "shared_points": 0,
+        "distance": 54.528021397227334,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 33,
+        "shared_points": 0,
+        "distance": 56.02310107986857,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 32,
+        "shared_points": 0,
+        "distance": 56.14613196572644,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 27,
+        "shared_points": 0,
+        "distance": 57.47017207217559,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 34,
+        "shared_points": 0,
+        "distance": 58.3370473253946,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 31,
+        "shared_points": 0,
+        "distance": 58.86656692095627,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 50,
+        "shared_points": 0,
+        "distance": 59.04863047449663,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 29,
+        "shared_points": 0,
+        "distance": 59.12719644854059,
+        "type": "spatial_forced"
+      }
+    ],
+    "14": [
+      {
+        "target_camera": 13,
+        "shared_points": 0,
+        "distance": 5.548362700903838,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 20,
+        "shared_points": 0,
+        "distance": 54.91901456962921,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 19,
+        "shared_points": 0,
+        "distance": 55.264028853186865,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 50,
+        "shared_points": 0,
+        "distance": 59.26006044144696,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 33,
+        "shared_points": 0,
+        "distance": 60.107989444473404,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 32,
+        "shared_points": 0,
+        "distance": 60.124820543743105,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 27,
+        "shared_points": 0,
+        "distance": 62.05686648522917,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 34,
+        "shared_points": 0,
+        "distance": 62.94350972720262,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 29,
+        "shared_points": 0,
+        "distance": 63.284565067141905,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 28,
+        "shared_points": 0,
+        "distance": 63.295590176454276,
+        "type": "spatial_forced"
+      }
+    ],
+    "15": [
+      {
+        "target_camera": 16,
+        "shared_points": 0,
+        "distance": 8.81873740335575,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 17,
+        "shared_points": 0,
+        "distance": 21.073135370390162,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 18,
+        "shared_points": 0,
+        "distance": 26.613166352317275,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 30,
+        "shared_points": 0,
+        "distance": 31.088048476189112,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 36,
+        "shared_points": 0,
+        "distance": 40.431016625756506,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 37,
+        "shared_points": 0,
+        "distance": 41.072426611638136,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 26,
+        "shared_points": 0,
+        "distance": 43.96660067897948,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 31,
+        "shared_points": 0,
+        "distance": 45.555168714344376,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 27,
+        "shared_points": 0,
+        "distance": 46.56231386593933,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 57,
+        "shared_points": 0,
+        "distance": 47.049687419302806,
+        "type": "spatial_forced"
+      }
+    ],
+    "16": [
+      {
+        "target_camera": 15,
+        "shared_points": 0,
+        "distance": 8.81873740335575,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 17,
+        "shared_points": 0,
+        "distance": 12.461228049630249,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 18,
+        "shared_points": 0,
+        "distance": 18.008319428068276,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 30,
+        "shared_points": 0,
+        "distance": 31.281640072500387,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 57,
+        "shared_points": 0,
+        "distance": 38.89831933172037,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 36,
+        "shared_points": 0,
+        "distance": 39.58133343400236,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 37,
+        "shared_points": 0,
+        "distance": 40.8108605361908,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 56,
+        "shared_points": 0,
+        "distance": 41.92606775350486,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 26,
+        "shared_points": 0,
+        "distance": 43.94906932820773,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 27,
+        "shared_points": 0,
+        "distance": 44.6920944713633,
+        "type": "spatial_forced"
+      }
+    ],
+    "17": [
+      {
+        "target_camera": 18,
+        "shared_points": 0,
+        "distance": 5.72747353434497,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 16,
+        "shared_points": 0,
+        "distance": 12.461228049630249,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 15,
+        "shared_points": 0,
+        "distance": 21.073135370390162,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 57,
+        "shared_points": 0,
+        "distance": 28.78419839056289,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 30,
+        "shared_points": 0,
+        "distance": 32.71123744825234,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 56,
+        "shared_points": 0,
+        "distance": 33.44145616421016,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 55,
+        "shared_points": 0,
+        "distance": 35.81927302874502,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 54,
+        "shared_points": 0,
+        "distance": 39.10074925454697,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 27,
+        "shared_points": 0,
+        "distance": 41.566718639786856,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 26,
+        "shared_points": 0,
+        "distance": 43.65676807468499,
+        "type": "spatial_forced"
+      }
+    ],
+    "18": [
+      {
+        "target_camera": 17,
+        "shared_points": 0,
+        "distance": 5.72747353434497,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 16,
+        "shared_points": 0,
+        "distance": 18.008319428068276,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 57,
+        "shared_points": 0,
+        "distance": 25.904888857637584,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 15,
+        "shared_points": 0,
+        "distance": 26.613166352317275,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 56,
+        "shared_points": 0,
+        "distance": 31.57894443998749,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 55,
+        "shared_points": 0,
+        "distance": 33.02336988823232,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 30,
+        "shared_points": 0,
+        "distance": 34.482050210574776,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 54,
+        "shared_points": 0,
+        "distance": 36.31908193102861,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 27,
+        "shared_points": 0,
+        "distance": 41.41859357571876,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 26,
+        "shared_points": 0,
+        "distance": 44.57786776104225,
+        "type": "spatial_forced"
       }
     ],
     "19": [
@@ -689,25 +1183,61 @@
         "target_camera": 20,
         "shared_points": 0,
         "distance": 10.521029409679144,
-        "type": "spatial_fallback"
+        "type": "spatial_forced"
       },
       {
         "target_camera": 50,
         "shared_points": 0,
         "distance": 22.34165800485107,
-        "type": "spatial_fallback"
+        "type": "spatial_forced"
       },
       {
         "target_camera": 53,
         "shared_points": 0,
         "distance": 24.845558391455768,
-        "type": "spatial_fallback"
+        "type": "spatial_forced"
       },
       {
-        "target_camera": 20,
+        "target_camera": 52,
         "shared_points": 0,
-        "distance": 10.521029409679144,
-        "type": "spatial_fallback"
+        "distance": 25.120655726488817,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 51,
+        "shared_points": 0,
+        "distance": 25.433841424922136,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 49,
+        "shared_points": 0,
+        "distance": 35.63517002003823,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 32,
+        "shared_points": 0,
+        "distance": 40.19066319211779,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 33,
+        "shared_points": 0,
+        "distance": 40.701069433984465,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 28,
+        "shared_points": 0,
+        "distance": 42.428912527655534,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 29,
+        "shared_points": 0,
+        "distance": 45.31616436249899,
+        "type": "spatial_forced"
       }
     ],
     "20": [
@@ -715,63 +1245,619 @@
         "target_camera": 19,
         "shared_points": 0,
         "distance": 10.521029409679144,
-        "type": "spatial_fallback"
-      },
-      {
-        "target_camera": 19,
-        "shared_points": 0,
-        "distance": 10.521029409679144,
-        "type": "spatial_fallback"
+        "type": "spatial_forced"
       },
       {
         "target_camera": 50,
         "shared_points": 0,
         "distance": 13.99599160069368,
-        "type": "spatial_fallback"
+        "type": "spatial_forced"
       },
       {
         "target_camera": 52,
         "shared_points": 0,
         "distance": 18.921327392510225,
-        "type": "spatial_fallback"
-      }
-    ],
-    "50": [
-      {
-        "target_camera": 19,
-        "shared_points": 0,
-        "distance": 22.34165800485107,
-        "type": "spatial_fallback"
-      },
-      {
-        "target_camera": 20,
-        "shared_points": 0,
-        "distance": 13.99599160069368,
-        "type": "spatial_fallback"
-      },
-      {
-        "target_camera": 52,
-        "shared_points": 0,
-        "distance": 7.000440446066389,
-        "type": "spatial_fallback"
-      },
-      {
-        "target_camera": 51,
-        "shared_points": 0,
-        "distance": 9.200951582153897,
-        "type": "spatial_fallback"
+        "type": "spatial_forced"
       },
       {
         "target_camera": 53,
         "shared_points": 0,
-        "distance": 9.494645376360834,
-        "type": "spatial_fallback"
+        "distance": 19.473588294622896,
+        "type": "spatial_forced"
       },
       {
         "target_camera": 51,
         "shared_points": 0,
-        "distance": 9.200951582153897,
-        "type": "spatial_fallback"
+        "distance": 19.929722625113477,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 49,
+        "shared_points": 0,
+        "distance": 29.371902275798732,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 32,
+        "shared_points": 0,
+        "distance": 35.229033245604526,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 33,
+        "shared_points": 0,
+        "distance": 36.318142229420104,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 28,
+        "shared_points": 0,
+        "distance": 36.93295288008535,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 29,
+        "shared_points": 0,
+        "distance": 39.89536945689402,
+        "type": "spatial_forced"
+      }
+    ],
+    "21": [
+      {
+        "target_camera": 22,
+        "shared_points": 0,
+        "distance": 2.040041895190822,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 23,
+        "shared_points": 0,
+        "distance": 10.265253737998862,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 24,
+        "shared_points": 0,
+        "distance": 15.479758580244823,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 25,
+        "shared_points": 0,
+        "distance": 19.71593734460413,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 43,
+        "shared_points": 0,
+        "distance": 30.677019852599642,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 42,
+        "shared_points": 0,
+        "distance": 30.912635359134246,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 48,
+        "shared_points": 0,
+        "distance": 32.890343949840656,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 46,
+        "shared_points": 0,
+        "distance": 33.000131398930336,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 47,
+        "shared_points": 0,
+        "distance": 34.257514483094475,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 49,
+        "shared_points": 0,
+        "distance": 36.66032628538119,
+        "type": "spatial_forced"
+      }
+    ],
+    "22": [
+      {
+        "target_camera": 21,
+        "shared_points": 0,
+        "distance": 2.040041895190822,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 23,
+        "shared_points": 0,
+        "distance": 8.295661522970631,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 24,
+        "shared_points": 0,
+        "distance": 13.469184122325238,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 25,
+        "shared_points": 0,
+        "distance": 17.689451513094564,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 43,
+        "shared_points": 0,
+        "distance": 29.022277534207195,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 42,
+        "shared_points": 0,
+        "distance": 29.258033806968967,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 46,
+        "shared_points": 0,
+        "distance": 31.50658883342541,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 48,
+        "shared_points": 0,
+        "distance": 32.05945421967294,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 47,
+        "shared_points": 0,
+        "distance": 32.69823446033701,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 49,
+        "shared_points": 0,
+        "distance": 36.41769549524639,
+        "type": "spatial_forced"
+      }
+    ],
+    "23": [
+      {
+        "target_camera": 24,
+        "shared_points": 0,
+        "distance": 5.316079751566761,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 22,
+        "shared_points": 0,
+        "distance": 8.295661522970631,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 25,
+        "shared_points": 0,
+        "distance": 9.697788867287,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 21,
+        "shared_points": 0,
+        "distance": 10.265253737998862,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 43,
+        "shared_points": 0,
+        "distance": 22.77511569812118,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 42,
+        "shared_points": 0,
+        "distance": 23.04483943078806,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 46,
+        "shared_points": 0,
+        "distance": 24.46465724131966,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 47,
+        "shared_points": 0,
+        "distance": 25.39964883801344,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 48,
+        "shared_points": 0,
+        "distance": 27.588135432178145,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 49,
+        "shared_points": 0,
+        "distance": 34.1753272228088,
+        "type": "spatial_forced"
+      }
+    ],
+    "24": [
+      {
+        "target_camera": 25,
+        "shared_points": 0,
+        "distance": 4.418947373857914,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 23,
+        "shared_points": 0,
+        "distance": 5.316079751566761,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 22,
+        "shared_points": 0,
+        "distance": 13.469184122325238,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 21,
+        "shared_points": 0,
+        "distance": 15.479758580244823,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 43,
+        "shared_points": 0,
+        "distance": 19.90622070578984,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 42,
+        "shared_points": 0,
+        "distance": 20.168945214375356,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 46,
+        "shared_points": 0,
+        "distance": 21.746926499714235,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 47,
+        "shared_points": 0,
+        "distance": 22.32159288196152,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 48,
+        "shared_points": 0,
+        "distance": 27.297996810055288,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 45,
+        "shared_points": 0,
+        "distance": 33.38280688173158,
+        "type": "spatial_forced"
+      }
+    ],
+    "25": [
+      {
+        "target_camera": 24,
+        "shared_points": 0,
+        "distance": 4.418947373857914,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 23,
+        "shared_points": 0,
+        "distance": 9.697788867287,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 22,
+        "shared_points": 0,
+        "distance": 17.689451513094564,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 43,
+        "shared_points": 0,
+        "distance": 18.95227216078938,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 42,
+        "shared_points": 0,
+        "distance": 19.185168358551955,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 21,
+        "shared_points": 0,
+        "distance": 19.71593734460413,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 46,
+        "shared_points": 0,
+        "distance": 20.976157406025468,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 47,
+        "shared_points": 0,
+        "distance": 21.145384341736055,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 48,
+        "shared_points": 0,
+        "distance": 28.465716212312014,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 44,
+        "shared_points": 0,
+        "distance": 32.63746374043595,
+        "type": "spatial_forced"
+      }
+    ],
+    "26": [
+      {
+        "target_camera": 31,
+        "shared_points": 0,
+        "distance": 1.8374167357160052,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 29,
+        "shared_points": 0,
+        "distance": 9.886048403993748,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 33,
+        "shared_points": 0,
+        "distance": 9.975097430579394,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 27,
+        "shared_points": 0,
+        "distance": 10.733600926337257,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 32,
+        "shared_points": 0,
+        "distance": 11.736169887040125,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 28,
+        "shared_points": 0,
+        "distance": 12.132656312022844,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 30,
+        "shared_points": 0,
+        "distance": 14.179059913379389,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 34,
+        "shared_points": 0,
+        "distance": 17.87015326181688,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 17,
+        "shared_points": 0,
+        "distance": 43.65676807468499,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 16,
+        "shared_points": 0,
+        "distance": 43.94906932820773,
+        "type": "spatial_forced"
+      }
+    ],
+    "27": [
+      {
+        "target_camera": 29,
+        "shared_points": 0,
+        "distance": 9.514720783977697,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 31,
+        "shared_points": 0,
+        "distance": 9.744438732125046,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 26,
+        "shared_points": 0,
+        "distance": 10.733600926337257,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 28,
+        "shared_points": 0,
+        "distance": 12.867530361099504,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 33,
+        "shared_points": 0,
+        "distance": 13.391976050244143,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 32,
+        "shared_points": 0,
+        "distance": 13.434848465979728,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 30,
+        "shared_points": 0,
+        "distance": 19.715705479703672,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 34,
+        "shared_points": 0,
+        "distance": 27.032971318053352,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 18,
+        "shared_points": 0,
+        "distance": 41.41859357571876,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 17,
+        "shared_points": 0,
+        "distance": 41.566718639786856,
+        "type": "spatial_forced"
+      }
+    ],
+    "28": [
+      {
+        "target_camera": 29,
+        "shared_points": 0,
+        "distance": 3.448950956413246,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 32,
+        "shared_points": 0,
+        "distance": 3.8459658639438663,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 33,
+        "shared_points": 0,
+        "distance": 5.5408926335772515,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 31,
+        "shared_points": 0,
+        "distance": 10.812410447467682,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 26,
+        "shared_points": 0,
+        "distance": 12.132656312022844,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 27,
+        "shared_points": 0,
+        "distance": 12.867530361099504,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 30,
+        "shared_points": 0,
+        "distance": 26.047396930882964,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 34,
+        "shared_points": 0,
+        "distance": 26.5707475262869,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 20,
+        "shared_points": 0,
+        "distance": 36.93295288008535,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 19,
+        "shared_points": 0,
+        "distance": 42.428912527655534,
+        "type": "spatial_forced"
+      }
+    ],
+    "29": [
+      {
+        "target_camera": 28,
+        "shared_points": 0,
+        "distance": 3.448950956413246,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 32,
+        "shared_points": 0,
+        "distance": 5.372843574737992,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 33,
+        "shared_points": 0,
+        "distance": 6.1983148632776475,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 31,
+        "shared_points": 0,
+        "distance": 8.51728190609102,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 27,
+        "shared_points": 0,
+        "distance": 9.514720783977697,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 26,
+        "shared_points": 0,
+        "distance": 9.886048403993748,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 30,
+        "shared_points": 0,
+        "distance": 23.419140794615384,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 34,
+        "shared_points": 0,
+        "distance": 25.815075829986814,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 20,
+        "shared_points": 0,
+        "distance": 39.89536945689402,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 19,
+        "shared_points": 0,
+        "distance": 45.31616436249899,
+        "type": "spatial_forced"
       }
     ],
     "30": [
@@ -779,84 +1865,1743 @@
         "target_camera": 26,
         "shared_points": 0,
         "distance": 14.179059913379389,
-        "type": "spatial_fallback"
+        "type": "spatial_forced"
       },
       {
         "target_camera": 31,
         "shared_points": 0,
         "distance": 15.721789940269439,
-        "type": "spatial_fallback"
+        "type": "spatial_forced"
       },
       {
         "target_camera": 34,
         "shared_points": 0,
         "distance": 19.059923812369252,
-        "type": "spatial_fallback"
+        "type": "spatial_forced"
       },
       {
-        "target_camera": 34,
+        "target_camera": 27,
         "shared_points": 0,
-        "distance": 19.059923812369252,
-        "type": "spatial_fallback"
+        "distance": 19.715705479703672,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 29,
+        "shared_points": 0,
+        "distance": 23.419140794615384,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 33,
+        "shared_points": 0,
+        "distance": 24.05401866790259,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 32,
+        "shared_points": 0,
+        "distance": 25.89302679540947,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 28,
+        "shared_points": 0,
+        "distance": 26.047396930882964,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 15,
+        "shared_points": 0,
+        "distance": 31.088048476189112,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 16,
+        "shared_points": 0,
+        "distance": 31.281640072500387,
+        "type": "spatial_forced"
       }
     ],
-    "34": [
+    "31": [
+      {
+        "target_camera": 26,
+        "shared_points": 0,
+        "distance": 1.8374167357160052,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 33,
+        "shared_points": 0,
+        "distance": 8.482523770730221,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 29,
+        "shared_points": 0,
+        "distance": 8.51728190609102,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 27,
+        "shared_points": 0,
+        "distance": 9.744438732125046,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 32,
+        "shared_points": 0,
+        "distance": 10.189267510103642,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 28,
+        "shared_points": 0,
+        "distance": 10.812410447467682,
+        "type": "spatial_forced"
+      },
       {
         "target_camera": 30,
         "shared_points": 0,
-        "distance": 19.059923812369252,
-        "type": "spatial_fallback"
+        "distance": 15.721789940269439,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 34,
+        "shared_points": 0,
+        "distance": 18.521143594916623,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 17,
+        "shared_points": 0,
+        "distance": 44.646379820955154,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 20,
+        "shared_points": 0,
+        "distance": 44.67950178566808,
+        "type": "spatial_forced"
+      }
+    ],
+    "32": [
+      {
+        "target_camera": 33,
+        "shared_points": 0,
+        "distance": 2.484591337886877,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 28,
+        "shared_points": 0,
+        "distance": 3.8459658639438663,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 29,
+        "shared_points": 0,
+        "distance": 5.372843574737992,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 31,
+        "shared_points": 0,
+        "distance": 10.189267510103642,
+        "type": "spatial_forced"
       },
       {
         "target_camera": 26,
         "shared_points": 0,
+        "distance": 11.736169887040125,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 27,
+        "shared_points": 0,
+        "distance": 13.434848465979728,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 34,
+        "shared_points": 0,
+        "distance": 24.194653875828553,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 30,
+        "shared_points": 0,
+        "distance": 25.89302679540947,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 20,
+        "shared_points": 0,
+        "distance": 35.229033245604526,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 19,
+        "shared_points": 0,
+        "distance": 40.19066319211779,
+        "type": "spatial_forced"
+      }
+    ],
+    "33": [
+      {
+        "target_camera": 32,
+        "shared_points": 0,
+        "distance": 2.484591337886877,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 28,
+        "shared_points": 0,
+        "distance": 5.5408926335772515,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 29,
+        "shared_points": 0,
+        "distance": 6.1983148632776475,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 31,
+        "shared_points": 0,
+        "distance": 8.482523770730221,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 26,
+        "shared_points": 0,
+        "distance": 9.975097430579394,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 27,
+        "shared_points": 0,
+        "distance": 13.391976050244143,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 34,
+        "shared_points": 0,
+        "distance": 21.718199568975493,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 30,
+        "shared_points": 0,
+        "distance": 24.05401866790259,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 20,
+        "shared_points": 0,
+        "distance": 36.318142229420104,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 19,
+        "shared_points": 0,
+        "distance": 40.701069433984465,
+        "type": "spatial_forced"
+      }
+    ],
+    "34": [
+      {
+        "target_camera": 26,
+        "shared_points": 0,
         "distance": 17.87015326181688,
-        "type": "spatial_fallback"
+        "type": "spatial_forced"
       },
       {
         "target_camera": 31,
         "shared_points": 0,
         "distance": 18.521143594916623,
-        "type": "spatial_fallback"
+        "type": "spatial_forced"
       },
       {
         "target_camera": 30,
         "shared_points": 0,
         "distance": 19.059923812369252,
-        "type": "spatial_fallback"
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 33,
+        "shared_points": 0,
+        "distance": 21.718199568975493,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 32,
+        "shared_points": 0,
+        "distance": 24.194653875828553,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 29,
+        "shared_points": 0,
+        "distance": 25.815075829986814,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 28,
+        "shared_points": 0,
+        "distance": 26.5707475262869,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 27,
+        "shared_points": 0,
+        "distance": 27.032971318053352,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 15,
+        "shared_points": 0,
+        "distance": 47.29364281276105,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 16,
+        "shared_points": 0,
+        "distance": 48.61899405515647,
+        "type": "spatial_forced"
       }
     ],
-    "51": [
+    "35": [
       {
-        "target_camera": 50,
+        "target_camera": 34,
         "shared_points": 0,
-        "distance": 9.200951582153897,
-        "type": "spatial_fallback"
+        "distance": 58.81426000170395,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 30,
+        "shared_points": 0,
+        "distance": 66.65335603846756,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 15,
+        "shared_points": 0,
+        "distance": 71.40412289873039,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 16,
+        "shared_points": 0,
+        "distance": 74.16292499624532,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 26,
+        "shared_points": 0,
+        "distance": 74.93579591843982,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 31,
+        "shared_points": 0,
+        "distance": 75.95678653776976,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 17,
+        "shared_points": 0,
+        "distance": 79.7181201733416,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 33,
+        "shared_points": 0,
+        "distance": 80.44582158898719,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 18,
+        "shared_points": 0,
+        "distance": 81.29038375830358,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 27,
+        "shared_points": 0,
+        "distance": 82.63740547695814,
+        "type": "spatial_forced"
+      }
+    ],
+    "36": [
+      {
+        "target_camera": 37,
+        "shared_points": 0,
+        "distance": 3.547297098304045,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 38,
+        "shared_points": 0,
+        "distance": 20.01753805951725,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 39,
+        "shared_points": 0,
+        "distance": 27.183788323415005,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 40,
+        "shared_points": 0,
+        "distance": 28.250538853885274,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 41,
+        "shared_points": 0,
+        "distance": 32.60013067908108,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 16,
+        "shared_points": 0,
+        "distance": 39.58133343400236,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 15,
+        "shared_points": 0,
+        "distance": 40.431016625756506,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 17,
+        "shared_points": 0,
+        "distance": 44.41257622196939,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 56,
+        "shared_points": 0,
+        "distance": 45.58231188264909,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 18,
+        "shared_points": 0,
+        "distance": 47.77621903500285,
+        "type": "spatial_forced"
+      }
+    ],
+    "37": [
+      {
+        "target_camera": 36,
+        "shared_points": 0,
+        "distance": 3.547297098304045,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 38,
+        "shared_points": 0,
+        "distance": 16.994585581984364,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 39,
+        "shared_points": 0,
+        "distance": 24.105506895407743,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 40,
+        "shared_points": 0,
+        "distance": 25.28713143363154,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 41,
+        "shared_points": 0,
+        "distance": 29.584418708785496,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 16,
+        "shared_points": 0,
+        "distance": 40.8108605361908,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 15,
+        "shared_points": 0,
+        "distance": 41.072426611638136,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 17,
+        "shared_points": 0,
+        "distance": 46.350214269485626,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 56,
+        "shared_points": 0,
+        "distance": 48.96584715061268,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 18,
+        "shared_points": 0,
+        "distance": 49.8675610511819,
+        "type": "spatial_forced"
+      }
+    ],
+    "38": [
+      {
+        "target_camera": 39,
+        "shared_points": 0,
+        "distance": 7.375627162096328,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 40,
+        "shared_points": 0,
+        "distance": 9.482207277840605,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 41,
+        "shared_points": 0,
+        "distance": 12.94969240636705,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 37,
+        "shared_points": 0,
+        "distance": 16.994585581984364,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 36,
+        "shared_points": 0,
+        "distance": 20.01753805951725,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 15,
+        "shared_points": 0,
+        "distance": 54.46395060318146,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 16,
+        "shared_points": 0,
+        "distance": 55.20485434664964,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 17,
+        "shared_points": 0,
+        "distance": 61.4803439536694,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 56,
+        "shared_points": 0,
+        "distance": 64.15357056669569,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 18,
+        "shared_points": 0,
+        "distance": 64.85432760269148,
+        "type": "spatial_forced"
+      }
+    ],
+    "39": [
+      {
+        "target_camera": 38,
+        "shared_points": 0,
+        "distance": 7.375627162096328,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 40,
+        "shared_points": 0,
+        "distance": 7.577933394366763,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 41,
+        "shared_points": 0,
+        "distance": 7.9083781786342575,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 37,
+        "shared_points": 0,
+        "distance": 24.105506895407743,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 36,
+        "shared_points": 0,
+        "distance": 27.183788323415005,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 15,
+        "shared_points": 0,
+        "distance": 59.59834910564999,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 16,
+        "shared_points": 0,
+        "distance": 60.64342536945542,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 17,
+        "shared_points": 0,
+        "distance": 67.17834866026959,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 18,
+        "shared_points": 0,
+        "distance": 70.48700184892732,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 56,
+        "shared_points": 0,
+        "distance": 70.71864638816564,
+        "type": "spatial_forced"
+      }
+    ],
+    "40": [
+      {
+        "target_camera": 41,
+        "shared_points": 0,
+        "distance": 4.95745046288772,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 39,
+        "shared_points": 0,
+        "distance": 7.577933394366763,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 38,
+        "shared_points": 0,
+        "distance": 9.482207277840605,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 37,
+        "shared_points": 0,
+        "distance": 25.28713143363154,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 36,
+        "shared_points": 0,
+        "distance": 28.250538853885274,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 15,
+        "shared_points": 0,
+        "distance": 62.25082793998158,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 16,
+        "shared_points": 0,
+        "distance": 63.68292709036907,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 17,
+        "shared_points": 0,
+        "distance": 70.48998186602984,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 56,
+        "shared_points": 0,
+        "distance": 72.62662263608289,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 18,
+        "shared_points": 0,
+        "distance": 74.03615331408407,
+        "type": "spatial_forced"
+      }
+    ],
+    "41": [
+      {
+        "target_camera": 40,
+        "shared_points": 0,
+        "distance": 4.95745046288772,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 39,
+        "shared_points": 0,
+        "distance": 7.9083781786342575,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 38,
+        "shared_points": 0,
+        "distance": 12.94969240636705,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 37,
+        "shared_points": 0,
+        "distance": 29.584418708785496,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 36,
+        "shared_points": 0,
+        "distance": 32.60013067908108,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 15,
+        "shared_points": 0,
+        "distance": 65.71644752540175,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 16,
+        "shared_points": 0,
+        "distance": 67.22684208213633,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 17,
+        "shared_points": 0,
+        "distance": 74.0953863616681,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 56,
+        "shared_points": 0,
+        "distance": 76.66154438391807,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 18,
+        "shared_points": 0,
+        "distance": 77.56557835454507,
+        "type": "spatial_forced"
+      }
+    ],
+    "42": [
+      {
+        "target_camera": 43,
+        "shared_points": 0,
+        "distance": 0.45716369771299376,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 25,
+        "shared_points": 0,
+        "distance": 19.185168358551955,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 24,
+        "shared_points": 0,
+        "distance": 20.168945214375356,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 46,
+        "shared_points": 0,
+        "distance": 21.68547897803038,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 47,
+        "shared_points": 0,
+        "distance": 21.79386907948337,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 23,
+        "shared_points": 0,
+        "distance": 23.04483943078806,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 44,
+        "shared_points": 0,
+        "distance": 24.4557299141814,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 45,
+        "shared_points": 0,
+        "distance": 27.937504101042304,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 22,
+        "shared_points": 0,
+        "distance": 29.258033806968967,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 48,
+        "shared_points": 0,
+        "distance": 30.50579078868961,
+        "type": "spatial_forced"
+      }
+    ],
+    "43": [
+      {
+        "target_camera": 42,
+        "shared_points": 0,
+        "distance": 0.45716369771299376,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 25,
+        "shared_points": 0,
+        "distance": 18.95227216078938,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 24,
+        "shared_points": 0,
+        "distance": 19.90622070578984,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 46,
+        "shared_points": 0,
+        "distance": 21.263774663989192,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 47,
+        "shared_points": 0,
+        "distance": 21.39068518614314,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 23,
+        "shared_points": 0,
+        "distance": 22.77511569812118,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 44,
+        "shared_points": 0,
+        "distance": 24.16100958943216,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 45,
+        "shared_points": 0,
+        "distance": 27.566901284047837,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 22,
+        "shared_points": 0,
+        "distance": 29.022277534207195,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 48,
+        "shared_points": 0,
+        "distance": 30.05194382519354,
+        "type": "spatial_forced"
+      }
+    ],
+    "44": [
+      {
+        "target_camera": 45,
+        "shared_points": 0,
+        "distance": 7.264968673586118,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 47,
+        "shared_points": 0,
+        "distance": 13.900780314489769,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 46,
+        "shared_points": 0,
+        "distance": 14.33152910411718,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 1,
+        "shared_points": 0,
+        "distance": 16.83770367741579,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 0,
+        "shared_points": 0,
+        "distance": 21.054361917084393,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 48,
+        "shared_points": 0,
+        "distance": 21.16292148504764,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 2,
+        "shared_points": 0,
+        "distance": 23.591355146537435,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 43,
+        "shared_points": 0,
+        "distance": 24.16100958943216,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 42,
+        "shared_points": 0,
+        "distance": 24.4557299141814,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 49,
+        "shared_points": 0,
+        "distance": 31.623918780812275,
+        "type": "spatial_forced"
+      }
+    ],
+    "45": [
+      {
+        "target_camera": 44,
+        "shared_points": 0,
+        "distance": 7.264968673586118,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 46,
+        "shared_points": 0,
+        "distance": 12.323424014922013,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 47,
+        "shared_points": 0,
+        "distance": 12.56569026988178,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 48,
+        "shared_points": 0,
+        "distance": 15.125819907813629,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 1,
+        "shared_points": 0,
+        "distance": 20.826354009154112,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 0,
+        "shared_points": 0,
+        "distance": 23.317217716184427,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 49,
+        "shared_points": 0,
+        "distance": 24.82778507093225,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 43,
+        "shared_points": 0,
+        "distance": 27.566901284047837,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 42,
+        "shared_points": 0,
+        "distance": 27.937504101042304,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 2,
+        "shared_points": 0,
+        "distance": 29.958079778765807,
+        "type": "spatial_forced"
+      }
+    ],
+    "46": [
+      {
+        "target_camera": 47,
+        "shared_points": 0,
+        "distance": 2.066059059896047,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 45,
+        "shared_points": 0,
+        "distance": 12.323424014922013,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 48,
+        "shared_points": 0,
+        "distance": 12.994824485596654,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 44,
+        "shared_points": 0,
+        "distance": 14.33152910411718,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 25,
+        "shared_points": 0,
+        "distance": 20.976157406025468,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 43,
+        "shared_points": 0,
+        "distance": 21.263774663989192,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 42,
+        "shared_points": 0,
+        "distance": 21.68547897803038,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 24,
+        "shared_points": 0,
+        "distance": 21.746926499714235,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 49,
+        "shared_points": 0,
+        "distance": 24.448176238731303,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 23,
+        "shared_points": 0,
+        "distance": 24.46465724131966,
+        "type": "spatial_forced"
+      }
+    ],
+    "47": [
+      {
+        "target_camera": 46,
+        "shared_points": 0,
+        "distance": 2.066059059896047,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 45,
+        "shared_points": 0,
+        "distance": 12.56569026988178,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 44,
+        "shared_points": 0,
+        "distance": 13.900780314489769,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 48,
+        "shared_points": 0,
+        "distance": 14.784623298309821,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 25,
+        "shared_points": 0,
+        "distance": 21.145384341736055,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 43,
+        "shared_points": 0,
+        "distance": 21.39068518614314,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 42,
+        "shared_points": 0,
+        "distance": 21.79386907948337,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 24,
+        "shared_points": 0,
+        "distance": 22.32159288196152,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 23,
+        "shared_points": 0,
+        "distance": 25.39964883801344,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 49,
+        "shared_points": 0,
+        "distance": 26.13858883752618,
+        "type": "spatial_forced"
+      }
+    ],
+    "48": [
+      {
+        "target_camera": 49,
+        "shared_points": 0,
+        "distance": 11.662536992586451,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 46,
+        "shared_points": 0,
+        "distance": 12.994824485596654,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 47,
+        "shared_points": 0,
+        "distance": 14.784623298309821,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 45,
+        "shared_points": 0,
+        "distance": 15.125819907813629,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 44,
+        "shared_points": 0,
+        "distance": 21.16292148504764,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 51,
+        "shared_points": 0,
+        "distance": 21.52892613544278,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 52,
+        "shared_points": 0,
+        "distance": 22.058172912032365,
+        "type": "spatial_forced"
       },
       {
         "target_camera": 53,
         "shared_points": 0,
+        "distance": 22.379083408983877,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 24,
+        "shared_points": 0,
+        "distance": 27.297996810055288,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 23,
+        "shared_points": 0,
+        "distance": 27.588135432178145,
+        "type": "spatial_forced"
+      }
+    ],
+    "49": [
+      {
+        "target_camera": 52,
+        "shared_points": 0,
+        "distance": 10.63441459702489,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 51,
+        "shared_points": 0,
+        "distance": 10.731176511326124,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 48,
+        "shared_points": 0,
+        "distance": 11.662536992586451,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 53,
+        "shared_points": 0,
+        "distance": 11.831195420789227,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 50,
+        "shared_points": 0,
+        "distance": 16.026301816534623,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 46,
+        "shared_points": 0,
+        "distance": 24.448176238731303,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 45,
+        "shared_points": 0,
+        "distance": 24.82778507093225,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 47,
+        "shared_points": 0,
+        "distance": 26.13858883752618,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 20,
+        "shared_points": 0,
+        "distance": 29.371902275798732,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 44,
+        "shared_points": 0,
+        "distance": 31.623918780812275,
+        "type": "spatial_forced"
+      }
+    ],
+    "50": [
+      {
+        "target_camera": 52,
+        "shared_points": 0,
+        "distance": 7.000440446066389,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 51,
+        "shared_points": 0,
+        "distance": 9.200951582153897,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 53,
+        "shared_points": 0,
+        "distance": 9.494645376360834,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 20,
+        "shared_points": 0,
+        "distance": 13.99599160069368,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 49,
+        "shared_points": 0,
+        "distance": 16.026301816534623,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 19,
+        "shared_points": 0,
+        "distance": 22.34165800485107,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 48,
+        "shared_points": 0,
+        "distance": 27.641844149480598,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 45,
+        "shared_points": 0,
+        "distance": 39.68278196577617,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 46,
+        "shared_points": 0,
+        "distance": 40.1950353200686,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 47,
+        "shared_points": 0,
+        "distance": 41.770551698108214,
+        "type": "spatial_forced"
+      }
+    ],
+    "51": [
+      {
+        "target_camera": 53,
+        "shared_points": 0,
         "distance": 1.4546619240546257,
-        "type": "spatial_fallback"
+        "type": "spatial_forced"
       },
       {
         "target_camera": 52,
         "shared_points": 0,
         "distance": 2.900240792542051,
-        "type": "spatial_fallback"
+        "type": "spatial_forced"
       },
       {
         "target_camera": 50,
         "shared_points": 0,
         "distance": 9.200951582153897,
-        "type": "spatial_fallback"
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 49,
+        "shared_points": 0,
+        "distance": 10.731176511326124,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 20,
+        "shared_points": 0,
+        "distance": 19.929722625113477,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 48,
+        "shared_points": 0,
+        "distance": 21.52892613544278,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 19,
+        "shared_points": 0,
+        "distance": 25.433841424922136,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 45,
+        "shared_points": 0,
+        "distance": 32.11748052511882,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 46,
+        "shared_points": 0,
+        "distance": 34.36936020150328,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 47,
+        "shared_points": 0,
+        "distance": 35.99865854032073,
+        "type": "spatial_forced"
+      }
+    ],
+    "52": [
+      {
+        "target_camera": 51,
+        "shared_points": 0,
+        "distance": 2.900240792542051,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 53,
+        "shared_points": 0,
+        "distance": 4.014099307582721,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 50,
+        "shared_points": 0,
+        "distance": 7.000440446066389,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 49,
+        "shared_points": 0,
+        "distance": 10.63441459702489,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 20,
+        "shared_points": 0,
+        "distance": 18.921327392510225,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 48,
+        "shared_points": 0,
+        "distance": 22.058172912032365,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 19,
+        "shared_points": 0,
+        "distance": 25.120655726488817,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 45,
+        "shared_points": 0,
+        "distance": 33.65983384122613,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 46,
+        "shared_points": 0,
+        "distance": 34.94045513600271,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 47,
+        "shared_points": 0,
+        "distance": 36.600284712377224,
+        "type": "spatial_forced"
+      }
+    ],
+    "53": [
+      {
+        "target_camera": 51,
+        "shared_points": 0,
+        "distance": 1.4546619240546257,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 52,
+        "shared_points": 0,
+        "distance": 4.014099307582721,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 50,
+        "shared_points": 0,
+        "distance": 9.494645376360834,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 49,
+        "shared_points": 0,
+        "distance": 11.831195420789227,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 20,
+        "shared_points": 0,
+        "distance": 19.473588294622896,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 48,
+        "shared_points": 0,
+        "distance": 22.379083408983877,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 19,
+        "shared_points": 0,
+        "distance": 24.845558391455768,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 45,
+        "shared_points": 0,
+        "distance": 32.434232581987764,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 46,
+        "shared_points": 0,
+        "distance": 35.13069329485865,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 47,
+        "shared_points": 0,
+        "distance": 36.72450869478903,
+        "type": "spatial_forced"
+      }
+    ],
+    "54": [
+      {
+        "target_camera": 55,
+        "shared_points": 0,
+        "distance": 5.317714413472856,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 57,
+        "shared_points": 0,
+        "distance": 14.88566942145032,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 56,
+        "shared_points": 0,
+        "distance": 16.34488560655275,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 18,
+        "shared_points": 0,
+        "distance": 36.31908193102861,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 17,
+        "shared_points": 0,
+        "distance": 39.10074925454697,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 16,
+        "shared_points": 0,
+        "distance": 49.202225117053025,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 6,
+        "shared_points": 0,
+        "distance": 56.67689260237832,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 15,
+        "shared_points": 0,
+        "distance": 56.76094015095961,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 36,
+        "shared_points": 0,
+        "distance": 60.430372239571916,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 27,
+        "shared_points": 0,
+        "distance": 61.248834729732785,
+        "type": "spatial_forced"
+      }
+    ],
+    "55": [
+      {
+        "target_camera": 54,
+        "shared_points": 0,
+        "distance": 5.317714413472856,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 57,
+        "shared_points": 0,
+        "distance": 9.751399023794152,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 56,
+        "shared_points": 0,
+        "distance": 11.478599105519104,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 18,
+        "shared_points": 0,
+        "distance": 33.02336988823232,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 17,
+        "shared_points": 0,
+        "distance": 35.81927302874502,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 16,
+        "shared_points": 0,
+        "distance": 45.905268400160665,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 15,
+        "shared_points": 0,
+        "distance": 53.673532805163106,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 36,
+        "shared_points": 0,
+        "distance": 56.049849405624634,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 37,
+        "shared_points": 0,
+        "distance": 59.398178053044084,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 6,
+        "shared_points": 0,
+        "distance": 59.98738884697595,
+        "type": "spatial_forced"
+      }
+    ],
+    "56": [
+      {
+        "target_camera": 57,
+        "shared_points": 0,
+        "distance": 7.9966874548092415,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 55,
+        "shared_points": 0,
+        "distance": 11.478599105519104,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 54,
+        "shared_points": 0,
+        "distance": 16.34488560655275,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 18,
+        "shared_points": 0,
+        "distance": 31.57894443998749,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 17,
+        "shared_points": 0,
+        "distance": 33.44145616421016,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 16,
+        "shared_points": 0,
+        "distance": 41.92606775350486,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 36,
+        "shared_points": 0,
+        "distance": 45.58231188264909,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 37,
+        "shared_points": 0,
+        "distance": 48.96584715061268,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 15,
+        "shared_points": 0,
+        "distance": 49.4870112334075,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 30,
+        "shared_points": 0,
+        "distance": 63.92521308367668,
+        "type": "spatial_forced"
+      }
+    ],
+    "57": [
+      {
+        "target_camera": 56,
+        "shared_points": 0,
+        "distance": 7.9966874548092415,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 55,
+        "shared_points": 0,
+        "distance": 9.751399023794152,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 54,
+        "shared_points": 0,
+        "distance": 14.88566942145032,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 18,
+        "shared_points": 0,
+        "distance": 25.904888857637584,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 17,
+        "shared_points": 0,
+        "distance": 28.78419839056289,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 16,
+        "shared_points": 0,
+        "distance": 38.89831933172037,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 15,
+        "shared_points": 0,
+        "distance": 47.049687419302806,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 36,
+        "shared_points": 0,
+        "distance": 49.10480399702155,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 37,
+        "shared_points": 0,
+        "distance": 52.30378255198267,
+        "type": "spatial_forced"
+      },
+      {
+        "target_camera": 30,
+        "shared_points": 0,
+        "distance": 58.29185197412353,
+        "type": "spatial_forced"
       }
     ]
   },
   "metadata": {
     "num_cameras": 58,
-    "num_nodes": 56,
-    "min_shared_points": 15,
-    "max_spatial_distance": 15.0
+    "num_nodes": 58,
+    "method": "spatial_forced_connectivity",
+    "k_neighbors": 10,
+    "min_connections": 5
   }
 }
